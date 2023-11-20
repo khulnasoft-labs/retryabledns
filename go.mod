@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/khulnasoft-lab/utils v0.0.47
-	github.com/miekg/dns v1.1.56
+	github.com/miekg/dns v1.1.57
 	github.com/stretchr/testify v1.8.4
 )
 
